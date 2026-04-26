@@ -130,7 +130,7 @@ The product is composed of three private repositories. This public repo is a sho
 
 | Repo | Role |
 |---|---|
-| **`market-pulse-backend`** | Hono API · data aggregation · cron jobs · WhatsApp delivery · payment webhooks |
+| **`market-sarathi-backend`** | Hono API · data aggregation · cron jobs · WhatsApp delivery · payment webhooks |
 | **`market-sarathi-report`** | Next.js app that renders the 14-page report (rendered to PDF by the backend) |
 | **`market-sarathi-frontend`** | Public-facing landing & report viewer |
 
