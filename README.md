@@ -107,7 +107,6 @@ A scheduled cron job runs the same pipeline once per trading morning to broadcas
 
 📂 [**Full tech-stack rundown → docs/tech-stack.md**](./docs/tech-stack.md)
 🏗️ [**Deep-dive architecture → docs/architecture.md**](./docs/architecture.md)
-🎯 [**Engineering taste, with real code → TASTE.md**](./TASTE.md)
 
 ---
 
